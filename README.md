@@ -7,7 +7,8 @@ Et bedre skade system til vRP
 
 Man kan spawne et item, som er vist i Showcasen.*
 
-***Krav:
+
+Krav:
 ***
 > Mythic_Notify
 > 
