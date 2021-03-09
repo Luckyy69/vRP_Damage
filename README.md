@@ -3,7 +3,7 @@ Et bedre skade system til vRP
 
 ***vRP_Damage ┇ ESX -> vRP***
 
-Så lige det var kommet på Forum, så convertede jeg lige bare.
+Så lige det var kommet på Forum, så convertede jeg det lige.
 
 Man kan spawne et item, som er vist i Showcasen.
 
